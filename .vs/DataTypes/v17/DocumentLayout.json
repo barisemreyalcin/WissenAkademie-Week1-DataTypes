@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BEY\\Documents\\WebDevelopment\\Wissen-Akademie\\Lectures\\002-May28-DataTypes\\DataTypes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68C29E4E-D701-4DDE-A92B-99A68D4DCD5E}|DataTypes\\DataTypes.csproj|c:\\users\\bey\\documents\\webdevelopment\\wissen-akademie\\lectures\\002-may28-datatypes\\datatypes\\datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C29E4E-D701-4DDE-A92B-99A68D4DCD5E}|DataTypes\\DataTypes.csproj|solutionrelative:datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C29E4E-D701-4DDE-A92B-99A68D4DCD5E}|DataTypes\\DataTypes.csproj|c:\\users\\bey\\documents\\webdevelopment\\wissen-akademie\\lectures\\002-may28-datatypes\\datatypes\\datatypes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C29E4E-D701-4DDE-A92B-99A68D4DCD5E}|DataTypes\\DataTypes.csproj|solutionrelative:datatypes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BEY\\Documents\\WebDevelopment\\Wissen-Akademie\\Lectures\\002-May28-DataTypes\\DataTypes\\DataTypes\\Program.cs",
+              "RelativeDocumentMoniker": "DataTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\BEY\\Documents\\WebDevelopment\\Wissen-Akademie\\Lectures\\002-May28-DataTypes\\DataTypes\\DataTypes\\Program.cs",
+              "RelativeToolTip": "DataTypes\\Program.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAiwK8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:32:37.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\BEY\\Documents\\WebDevelopment\\Wissen-Akademie\\Lectures\\002-May28-DataTypes\\DataTypes\\DataTypes\\Person.cs",
+              "RelativeDocumentMoniker": "DataTypes\\Person.cs",
+              "ToolTip": "C:\\Users\\BEY\\Documents\\WebDevelopment\\Wissen-Akademie\\Lectures\\002-May28-DataTypes\\DataTypes\\DataTypes\\Person.cs",
+              "RelativeToolTip": "DataTypes\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:04:43.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
